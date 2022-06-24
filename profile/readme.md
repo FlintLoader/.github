@@ -12,7 +12,7 @@ Flint Loader is an attempt at a Modern, CLIENT SIDE only mod loader, intended to
 ### Disclosure
 
 This project makes use of modified Fabric Components like Loom and the Fabric Loader/Mappings. These versions have been modified for this loader and will NOT work with fabric at all.
-Changes are listed in the readme of each project. This project is not affiliated with, or endorced by Mojang or FabricMC.
+Changes are listed in the readme of each project. This project is not affiliated with, or endorsed by Mojang or FabricMC.
 
 ***
 
